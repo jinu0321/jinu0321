@@ -2,4 +2,5 @@
 
 **Flutter / Mobile Engineer**
 
-Flutter · Dart · Firebase · GCP
+Flutter · Dart
+Node.js · GCP · Firebase
