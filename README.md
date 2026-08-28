@@ -1,7 +1,9 @@
 # 김진우 · Jinwoo Kim
 
-**Flutter / Mobile Engineer**
+**Mobile Engineer**
 
 Flutter · Dart
+
+Kotlin · Swift
 
 Node.js · GCP · Firebase
